@@ -1,4 +1,4 @@
-const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, Im thankful whoever you are, thanks for checking my link, be my forever story viewer`;
+const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know I’m thankful, whoever you are.\n\nThanks for checking my link.\nIt might seem like something small, but it means more than you think.\n\nSo if you’re still here…\nmaybe stay a little longer.\nBe my forever story viewer.;`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
